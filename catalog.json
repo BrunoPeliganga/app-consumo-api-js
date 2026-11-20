@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "id": "cds",
+            "name": "CDs"
+        },
+        {
+            "id": "merch",
+            "name": "Merchandise"
+        }
+    ],
+
+    "products": [
+        {
+            "id": "1",
+            "name": "24K Magic",
+            "description": "Inspirado no Bruno Mars.",
+            "price": "24.99",
+            "category": "cds",
+            "image": "img/bruno_mars_24k_magic-portada.jpg"
+        },
+        {
+            "id": "2",
+            "name": "T-Shirt",
+            "description": "Visual leve com toque 24K Magic.",
+            "price": "25.90",
+            "category": "merch",
+            "image": "img/t-shirts.jpg"
+        }
+        ,
+        {
+            "id": "3",
+            "name": "Boné",
+            "description": "Look urbano inspirado no Bruno Mars.",
+            "price": "25.99",
+            "category": "merch",
+            "image": "img/bone.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Jacket",
+            "description": "Estilo premium com vibe 24K Magic.",
+            "price": "24.99",
+            "category": "merch",
+            "image": "img/jacket.jpg"
+        },
+        {
+            "id": "5",
+            "name": "T-Shirt",
+            "description": "Estilo premium com vibe 24K Magic.",
+            "price": "52.99",
+            "category": "merch",
+            "image": "img/24kmagic-tshirt.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Unorthodox Jukebox CD",
+            "description": "Inspirado no Bruno Mars.",
+            "price": "34.99",
+            "category": "cds",
+            "image": "img/bruno-mars-unorthodox-jukebox-artwork.jpg"
+        },
+        {
+            "id": "7",
+            "name": "An Evening with Silk Sonic",
+            "description": "Inspirado no Bruno Mars.",
+            "price": "24.99",
+            "category": "cds",
+            "image": "img/An_Evening_with_Silk_Sonic.png"
+        }
+    ]
+}
